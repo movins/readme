@@ -1,2 +1,0 @@
-webpackJsonp([14],{534:function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i=s(2),l=Object(i.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticStyle:{margin:"auto"}},[e("u-spin",{attrs:{size:"small"}}),this._v(" "),e("u-spin"),this._v(" "),e("u-spin",{attrs:{size:"large"}})],1)},[],!1,null,null,null);e.default=l.exports}});
-//# sourceMappingURL=14.chunk.js.map

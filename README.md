@@ -1,7 +1,7 @@
-[jiaoyou1]: https://github.com/movins/readme/tree/master/docs/20190709163801.png "交友一期版本"
-[jiaoyou2]: https://github.com/movins/readme/tree/master/docs/20190709163905.png "交友二期版本"
-[jiaoyou3]: https://github.com/movins/readme/tree/master/docs/20190709163354.png "交友Flash版本"
-[gameshow]: https://github.com/movins/readme/tree/master/docs/20190709162809.png "游戏直播模板"
+[jiaoyou1]: ./docs/20190709163801.png "交友一期版本"
+[jiaoyou2]: ./docs/20190709163905.png "交友二期版本"
+[jiaoyou3]: ./docs/20190709163354.png "交友Flash版本"
+[gameshow]: ./docs/20190709162809.png "游戏直播模板"
 # 一、个人简介
   07年毕业于湖南大学，先后任职于酷狗等公司，13年进入YY，至今
 

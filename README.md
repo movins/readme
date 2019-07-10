@@ -23,8 +23,8 @@
   为了适应当前技术开发大潮，及备不时之需，构建了第一个纯H5开发的运行版本，实现了交友项目90%的功能，虽然由于某些原因未能继续，但是为交友项目探明了在Flash被下线时的另外一条实现方案。
 
 # 三、效果及库地址
-  * 1、游戏直播h5：https://git.yy.com/webs/gameshow/gameshow-ui
-  * 2、交友flash线上地址：http://love.yy.com/#!/app/live?sid=87814665&ssid=87814665
-  * 3、交友h5线上地址：http://love.yy.com/webIndex.html#!/app/live?sid=87814665&ssid=87814665
-  * 4、交友h5相关git:http://git.yypm.com/friend/h5
-  * 5、ui库：https://git.yy.com/pc/ycube/yui
+  ## 1、游戏直播h5：https://git.yy.com/webs/gameshow/gameshow-ui
+  ## 2、交友flash线上地址：http://love.yy.com/#!/app/live?sid=87814665&ssid=87814665
+  ## 3、交友h5线上地址：http://love.yy.com/webIndex.html#!/app/live?sid=87814665&ssid=87814665
+  ## 4、交友h5相关git:http://git.yypm.com/friend/h5
+  ## 5、ui库：https://git.yy.com/pc/ycube/yui

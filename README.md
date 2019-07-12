@@ -42,3 +42,8 @@
   http://git.yypm.com/friend/h5
 ## 5、ui库
   https://git.yy.com/pc/ycube/yui
+
+
+建议：
+1、重点讲游戏直播模板H5重构、yui组件的开发
+2、挖掘每个过程中的难点、要点重点讲解

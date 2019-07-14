@@ -2,19 +2,10 @@
     "name": "readme",
     "version": "0.0.1",
     "title": "liaoguoguang",
-    "description": "职级面试",
+    "description": "ppts",
     "scripts": {
-        "dev": "webpack-dev-server --content-base docs/ --open --inline --hot --compress --history-api-fallback --port 8081 --config build/webpack.dev.config.js",
-        "dev:s": "webpack-dev-server --content-base test/ --open --inline --hot --compress --history-api-fallback --port 8081 --host 127.0.0.1 --config build/webpack.dev.config.js",
-        "dist:style": "gulp --gulpfile build/build-style.js",
-        "dist:dev": "webpack --config build/webpack.dist.dev.config.js",
-        "dist:prod": "webpack --config build/webpack.dist.prod.config.js",
-        "dist:locale": "webpack --config build/webpack.dist.locale.config.js",
-        "dist": "npm run dist:style && npm run dist:dev && npm run dist:prod && npm run dist:locale",
-        "lint": "eslint --fix --ext .js,.vue src",
-        "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
-        "test": "npm run lint && npm run unit",
-        "prepare": "npm run dist"
+        "grade": "nodeppt build site/grade.md",
+        "grade:dev": "nodeppt serve site/grade.md"
     },
     "repository": {
         "type": "git",
@@ -22,10 +13,6 @@
     },
     "author": "liaoguoguang",
     "devDependencies": {
-        "webpack": "^3.11.0",
-        "webpack-dev-server": "^2.11.3",
-        "webpack-merge": "^3.0.0",
-        "worker-loader": "^2.0.0",
         "nodeppt": "2.1.5"
     },
     "engines": {
